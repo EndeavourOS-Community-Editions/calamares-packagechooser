@@ -6,7 +6,7 @@ Implementation for Community Edition installs with calamares packagechooser modu
 **This repo only carry example files, please  Pull Request on the default EndeavourOS calamares repository here:**
 * https://github.com/endeavouros-team/EndeavourOS-calamares
  
-![Community Editions Banner](https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-calamares/main/calamares/images-ce/community.jpg)
+![Community Editions Banner](https://github.com/RyzenDew/Community-Edition-installer-files/blob/main/community.jpg)
 
 ## How to get my Community Edition added into EndeavourOS installer?
 
